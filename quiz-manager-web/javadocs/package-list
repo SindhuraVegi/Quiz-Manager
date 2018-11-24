@@ -1,0 +1,7 @@
+fr.epita.quiz.datamodel
+fr.epita.quiz.services
+fr.epita.quiz.tests
+fr.epita.quiz.web.actions
+fr.epita.quiz.web.services
+fr.epita.quiz.web.services.messages
+fr.epita.quiz.web.services.user

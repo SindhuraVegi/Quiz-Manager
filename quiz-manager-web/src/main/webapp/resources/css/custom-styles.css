@@ -1,0 +1,19 @@
+/*Custom Styles */
+
+.form-login-box {
+	border: 1px solid #ccc;
+	padding: 30px;
+}
+
+input[type="button"] {
+	cursor: pointer;
+}
+
+.answers-cont .form-check {
+	padding-left: 0;
+	margin-bottom: 10px;
+}
+
+.table-responsive table tr td {
+	font-size: 14px;
+}
